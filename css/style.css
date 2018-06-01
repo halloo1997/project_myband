@@ -1,0 +1,16 @@
+body{
+      background-image: url("../images/5372.jpg");
+      background-repeat: no-repeat;
+      background-position: right top;
+      background-attachment: fixed;
+      background-size: cover;
+      color: darkcyan;
+  }
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+}
+
+.logo {
+    width: 200px;
+}
