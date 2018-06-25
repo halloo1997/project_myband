@@ -6,7 +6,6 @@ De website is enigszins te vergelijken met Skillet of East of eli maar toch ande
 
 Uniek aan dit concept is:
 
-    <!DOCTYPE html>
 <html>
 <head>
 </head>
